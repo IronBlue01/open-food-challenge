@@ -22,8 +22,8 @@ Uma aplicação desenvolvida como desafio técnico para a Coodesh.
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/IronBlue01/open-food-challenge.git
+   cd open-food-challenge
    ```
 
 2. **Copie o arquivo `.env.example` para `.env`:**

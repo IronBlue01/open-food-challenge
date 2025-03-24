@@ -22,3 +22,4 @@ yarn-error.log
 /.vscode
 /.zed
 .docker/postgres/data
+/storage/app/public/products
