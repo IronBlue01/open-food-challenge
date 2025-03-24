@@ -1,0 +1,230 @@
+2025-03-23 00:53:35,145 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-03-23 00:53:35,149 INFO supervisord started with pid 1
+2025-03-23 00:53:36,152 INFO spawned: 'cron' with pid 7
+2025-03-23 00:53:36,156 INFO spawned: 'php-fpm' with pid 8
+2025-03-23 00:53:37,258 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-23 00:53:37,258 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-23 00:54:02,280 INFO reaped unknown pid 16 (exit status 0)
+2025-03-23 00:55:02,444 INFO reaped unknown pid 39 (exit status 0)
+2025-03-23 00:56:02,510 INFO reaped unknown pid 84 (exit status 0)
+2025-03-23 00:57:02,577 INFO reaped unknown pid 96 (exit status 0)
+2025-03-23 00:58:03,647 INFO reaped unknown pid 104 (exit status 0)
+2025-03-23 00:59:02,716 INFO reaped unknown pid 112 (exit status 0)
+2025-03-23 01:00:01,801 INFO reaped unknown pid 120 (exit status 0)
+2025-03-23 01:01:02,873 INFO reaped unknown pid 128 (exit status 0)
+2025-03-23 01:02:02,945 INFO reaped unknown pid 137 (exit status 0)
+2025-03-23 01:03:02,002 INFO reaped unknown pid 145 (exit status 0)
+2025-03-23 01:04:02,069 INFO reaped unknown pid 153 (exit status 0)
+2025-03-23 01:05:02,138 INFO reaped unknown pid 168 (exit status 0)
+2025-03-23 01:06:02,211 INFO reaped unknown pid 179 (exit status 0)
+2025-03-23 01:07:02,288 INFO reaped unknown pid 187 (exit status 0)
+2025-03-23 01:07:19,307 WARN received SIGQUIT indicating exit request
+2025-03-23 01:07:19,307 INFO waiting for cron, php-fpm to die
+2025-03-23 01:07:19,334 INFO stopped: php-fpm (exit status 0)
+2025-03-23 01:07:19,335 WARN stopped: cron (terminated by SIGTERM)
+2025-03-23 01:07:21,966 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-03-23 01:07:21,972 INFO supervisord started with pid 1
+2025-03-23 01:07:22,975 INFO spawned: 'cron' with pid 7
+2025-03-23 01:07:22,979 INFO spawned: 'php-fpm' with pid 8
+2025-03-23 01:07:24,101 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-23 01:07:24,101 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-23 01:15:55,762 WARN received SIGQUIT indicating exit request
+2025-03-23 01:15:55,768 INFO waiting for cron, php-fpm to die
+2025-03-23 01:15:55,821 INFO stopped: php-fpm (exit status 0)
+2025-03-23 01:15:55,822 WARN stopped: cron (terminated by SIGTERM)
+2025-03-23 01:15:58,550 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-03-23 01:15:58,557 INFO supervisord started with pid 1
+2025-03-23 01:15:59,560 INFO spawned: 'cron' with pid 7
+2025-03-23 01:15:59,565 INFO spawned: 'php-fpm' with pid 8
+2025-03-23 01:16:00,949 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-23 01:16:00,949 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-23 01:29:04,847 WARN received SIGQUIT indicating exit request
+2025-03-23 01:29:04,847 INFO waiting for cron, php-fpm to die
+2025-03-23 01:29:04,908 INFO stopped: php-fpm (exit status 0)
+2025-03-23 01:29:04,909 WARN stopped: cron (terminated by SIGTERM)
+2025-03-23 01:29:07,806 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-03-23 01:29:07,809 INFO supervisord started with pid 1
+2025-03-23 01:29:08,812 INFO spawned: 'cron' with pid 6
+2025-03-23 01:29:08,814 INFO spawned: 'php-fpm' with pid 7
+2025-03-23 01:29:09,895 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-23 01:29:09,895 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-23 01:40:32,747 WARN received SIGQUIT indicating exit request
+2025-03-23 01:40:32,761 INFO waiting for cron, php-fpm to die
+2025-03-23 01:40:33,794 INFO stopped: php-fpm (exit status 0)
+2025-03-23 01:40:33,810 WARN stopped: cron (terminated by SIGTERM)
+2025-03-23 01:40:37,304 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-03-23 01:40:37,311 INFO supervisord started with pid 1
+2025-03-23 01:40:38,324 INFO spawned: 'cron' with pid 7
+2025-03-23 01:40:38,328 INFO spawned: 'php-fpm' with pid 8
+2025-03-23 01:40:39,458 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-23 01:40:39,459 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-23 01:43:17,933 INFO reaped unknown pid 63 (exit status 0)
+2025-03-23 01:43:47,999 INFO reaped unknown pid 127 (exit status 0)
+2025-03-23 03:34:10,850 WARN received SIGQUIT indicating exit request
+2025-03-23 03:34:10,941 INFO waiting for cron, php-fpm to die
+2025-03-23 03:34:11,735 INFO stopped: php-fpm (exit status 0)
+2025-03-23 03:34:11,768 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 13:10:37,051 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-03-24 13:10:37,059 INFO supervisord started with pid 1
+2025-03-24 13:10:38,066 INFO spawned: 'cron' with pid 7
+2025-03-24 13:10:38,069 INFO spawned: 'php-fpm' with pid 8
+2025-03-24 13:10:39,198 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 13:10:39,198 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 13:25:31,046 WARN received SIGQUIT indicating exit request
+2025-03-24 13:25:31,175 INFO waiting for cron, php-fpm to die
+2025-03-24 13:25:31,743 INFO stopped: php-fpm (exit status 0)
+2025-03-24 13:25:31,770 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 13:25:38,665 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-03-24 13:25:38,672 INFO supervisord started with pid 1
+2025-03-24 13:25:39,675 INFO spawned: 'cron' with pid 7
+2025-03-24 13:25:39,677 INFO spawned: 'php-fpm' with pid 8
+2025-03-24 13:25:40,790 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 13:25:40,790 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 14:06:37,699 WARN received SIGQUIT indicating exit request
+2025-03-24 14:06:37,711 INFO waiting for cron, php-fpm to die
+2025-03-24 14:06:37,753 INFO stopped: php-fpm (exit status 0)
+2025-03-24 14:06:37,757 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 14:07:37,355 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-03-24 14:07:37,383 INFO supervisord started with pid 1
+2025-03-24 14:07:38,385 INFO spawned: 'cron' with pid 7
+2025-03-24 14:07:38,387 INFO spawned: 'php-fpm' with pid 8
+2025-03-24 14:07:40,375 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 14:07:40,376 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 14:10:06,426 WARN received SIGQUIT indicating exit request
+2025-03-24 14:10:06,428 INFO waiting for cron, php-fpm to die
+2025-03-24 14:10:06,446 INFO stopped: php-fpm (exit status 0)
+2025-03-24 14:10:06,447 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 14:10:54,485 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-03-24 14:10:54,490 INFO supervisord started with pid 1
+2025-03-24 14:10:55,494 INFO spawned: 'cron' with pid 7
+2025-03-24 14:10:55,499 INFO spawned: 'php-fpm' with pid 8
+2025-03-24 14:10:56,633 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 14:10:56,634 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 14:11:48,696 WARN received SIGQUIT indicating exit request
+2025-03-24 14:11:48,696 INFO waiting for cron, php-fpm to die
+2025-03-24 14:11:48,702 INFO stopped: php-fpm (exit status 0)
+2025-03-24 14:11:48,702 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 14:24:32,837 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-03-24 14:24:32,846 INFO supervisord started with pid 1
+2025-03-24 14:24:33,849 INFO spawned: 'cron' with pid 7
+2025-03-24 14:24:33,851 INFO spawned: 'php-fpm' with pid 8
+2025-03-24 14:24:35,121 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 14:24:35,121 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 14:32:10,650 WARN received SIGQUIT indicating exit request
+2025-03-24 14:32:10,650 INFO waiting for cron, php-fpm to die
+2025-03-24 14:32:10,657 INFO stopped: php-fpm (exit status 0)
+2025-03-24 14:32:10,658 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 15:42:06,348 INFO Set uid to user 0 succeeded
+2025-03-24 15:42:06,356 INFO supervisord started with pid 1
+2025-03-24 15:42:07,358 INFO spawned: 'cron' with pid 6
+2025-03-24 15:42:07,361 INFO spawned: 'php-fpm' with pid 7
+2025-03-24 15:42:08,515 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 15:42:08,515 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 16:00:16,119 INFO reaped unknown pid 196 (exit status 0)
+2025-03-24 16:01:13,255 INFO reaped unknown pid 219 (exit status 0)
+2025-03-24 16:02:23,342 INFO reaped unknown pid 242 (exit status 0)
+2025-03-24 16:03:57,454 INFO reaped unknown pid 265 (exit status 0)
+2025-03-24 16:05:02,531 INFO reaped unknown pid 292 (exit status 0)
+2025-03-24 16:05:26,560 INFO reaped unknown pid 322 (exit status 0)
+2025-03-24 16:08:38,800 INFO reaped unknown pid 362 (exit status 0)
+2025-03-24 16:09:26,858 INFO reaped unknown pid 392 (exit status 0)
+2025-03-24 16:09:49,885 INFO reaped unknown pid 411 (exit status 0)
+2025-03-24 16:10:05,905 INFO reaped unknown pid 436 (exit status 0)
+2025-03-24 16:10:43,956 INFO reaped unknown pid 454 (exit status 0)
+2025-03-24 16:10:58,975 INFO reaped unknown pid 473 (exit status 0)
+2025-03-24 16:11:20,001 INFO reaped unknown pid 503 (exit status 0)
+2025-03-24 16:11:55,045 INFO reaped unknown pid 522 (exit status 0)
+2025-03-24 16:13:42,178 INFO reaped unknown pid 573 (exit status 0)
+2025-03-24 16:14:02,201 INFO reaped unknown pid 592 (exit status 0)
+2025-03-24 16:14:17,219 INFO reaped unknown pid 615 (exit status 0)
+2025-03-24 16:17:42,477 INFO reaped unknown pid 673 (exit status 0)
+2025-03-24 16:22:30,824 INFO reaped unknown pid 757 (exit status 0)
+2025-03-24 16:22:54,852 INFO reaped unknown pid 776 (exit status 0)
+2025-03-24 16:25:33,048 INFO reaped unknown pid 809 (exit status 0)
+2025-03-24 16:27:02,158 INFO reaped unknown pid 832 (exit status 0)
+2025-03-24 16:32:59,602 INFO reaped unknown pid 896 (exit status 0)
+2025-03-24 16:33:06,609 INFO reaped unknown pid 920 (exit status 0)
+2025-03-24 16:33:52,669 INFO reaped unknown pid 938 (exit status 0)
+2025-03-24 16:34:22,707 INFO reaped unknown pid 962 (exit status 0)
+2025-03-24 16:49:18,806 WARN received SIGQUIT indicating exit request
+2025-03-24 16:49:18,845 INFO waiting for cron, php-fpm to die
+2025-03-24 16:49:19,294 INFO stopped: php-fpm (exit status 0)
+2025-03-24 16:49:19,314 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 17:01:16,288 INFO Set uid to user 0 succeeded
+2025-03-24 17:01:16,304 INFO supervisord started with pid 1
+2025-03-24 17:01:17,313 INFO spawned: 'cron' with pid 7
+2025-03-24 17:01:17,324 INFO spawned: 'php-fpm' with pid 8
+2025-03-24 17:01:18,938 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 17:01:18,938 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 17:02:38,032 INFO reaped unknown pid 47 (exit status 0)
+2025-03-24 17:24:37,690 INFO reaped unknown pid 370 (terminated by SIGINT)
+2025-03-24 17:25:58,860 INFO reaped unknown pid 417 (terminated by SIGINT)
+2025-03-24 17:35:07,066 INFO Set uid to user 0 succeeded
+2025-03-24 17:35:07,078 INFO supervisord started with pid 1
+2025-03-24 17:35:08,083 INFO spawned: 'cron' with pid 7
+2025-03-24 17:35:08,087 INFO spawned: 'php-fpm' with pid 8
+2025-03-24 17:35:09,310 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 17:35:09,310 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 17:41:00,733 WARN received SIGQUIT indicating exit request
+2025-03-24 17:41:01,011 INFO waiting for cron, php-fpm to die
+2025-03-24 17:41:01,050 INFO stopped: php-fpm (exit status 0)
+2025-03-24 17:41:01,052 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 17:41:11,815 INFO Set uid to user 0 succeeded
+2025-03-24 17:41:11,823 INFO supervisord started with pid 1
+2025-03-24 17:41:12,826 INFO spawned: 'cron' with pid 6
+2025-03-24 17:41:12,828 INFO spawned: 'php-fpm' with pid 7
+2025-03-24 17:41:13,922 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 17:41:13,922 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 18:09:28,042 INFO Set uid to user 0 succeeded
+2025-03-24 18:09:28,054 INFO supervisord started with pid 1
+2025-03-24 18:09:29,069 INFO spawned: 'cron' with pid 7
+2025-03-24 18:09:29,071 INFO spawned: 'php-fpm' with pid 8
+2025-03-24 18:09:30,370 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 18:09:30,370 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 18:26:46,588 INFO reaped unknown pid 158 (exit status 0)
+2025-03-24 18:33:40,190 WARN received SIGQUIT indicating exit request
+2025-03-24 18:33:40,274 INFO waiting for cron, php-fpm to die
+2025-03-24 18:33:40,591 INFO stopped: php-fpm (exit status 0)
+2025-03-24 18:33:40,630 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 18:33:45,351 INFO Set uid to user 0 succeeded
+2025-03-24 18:33:45,356 INFO supervisord started with pid 1
+2025-03-24 18:33:46,365 INFO spawned: 'cron' with pid 7
+2025-03-24 18:33:46,366 INFO spawned: 'php-fpm' with pid 8
+2025-03-24 18:33:47,501 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 18:33:47,502 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 20:12:17,164 WARN received SIGQUIT indicating exit request
+2025-03-24 20:12:17,218 INFO waiting for cron, php-fpm to die
+2025-03-24 20:12:17,417 INFO stopped: php-fpm (exit status 0)
+2025-03-24 20:12:17,430 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 20:19:50,912 INFO Set uid to user 0 succeeded
+2025-03-24 20:19:50,918 INFO supervisord started with pid 1
+2025-03-24 20:19:51,920 INFO spawned: 'cron' with pid 7
+2025-03-24 20:19:51,923 INFO spawned: 'php-fpm' with pid 8
+2025-03-24 20:19:52,998 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 20:19:52,998 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 21:09:45,332 INFO Set uid to user 0 succeeded
+2025-03-24 21:09:45,359 INFO supervisord started with pid 1
+2025-03-24 21:09:46,370 INFO spawned: 'cron' with pid 7
+2025-03-24 21:09:46,374 INFO spawned: 'php-fpm' with pid 8
+2025-03-24 21:09:47,772 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 21:09:47,772 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 21:11:23,528 WARN received SIGQUIT indicating exit request
+2025-03-24 21:11:23,584 INFO waiting for cron, php-fpm to die
+2025-03-24 21:11:23,633 INFO stopped: php-fpm (exit status 0)
+2025-03-24 21:11:24,639 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 22:00:17,800 INFO Set uid to user 0 succeeded
+2025-03-24 22:00:17,808 INFO supervisord started with pid 1
+2025-03-24 22:00:18,813 INFO spawned: 'cron' with pid 8
+2025-03-24 22:00:18,817 INFO spawned: 'php-fpm' with pid 9
+2025-03-24 22:00:20,203 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 22:00:20,204 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 22:04:52,559 WARN received SIGQUIT indicating exit request
+2025-03-24 22:04:52,560 INFO waiting for cron, php-fpm to die
+2025-03-24 22:04:52,579 INFO stopped: php-fpm (exit status 0)
+2025-03-24 22:04:52,580 WARN stopped: cron (terminated by SIGTERM)
+2025-03-24 22:06:44,794 INFO Set uid to user 0 succeeded
+2025-03-24 22:06:45,141 INFO supervisord started with pid 1
+2025-03-24 22:06:46,145 INFO spawned: 'cron' with pid 8
+2025-03-24 22:06:46,148 INFO spawned: 'php-fpm' with pid 9
+2025-03-24 22:06:47,222 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-24 22:06:47,223 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
